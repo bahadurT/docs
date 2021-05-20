@@ -1,0 +1,16 @@
+https://developer.nvidia.com/tensorrt-getting-started
+
+TensorRT 8.0: What’s New
+TensorRT 8.0 is packed with new features like Quantization aware training for accurate INT8, Sparsity support for leveraging Ampere GPUs, and inference optimizations for Transformer-based networks.
+
+Highlights:
+
+Achieve accuracy equivalent to FP32 with INT8 precision using Quantization Aware Training
+Support for Sparsity on Ampere GPUs delivers up to 50% higher throughput on Ampere GPUs
+Upto 2x faster inference for transformer based networks like BERT with new compiler optimizations
+TensorRT 8.0 will be freely available to members of NVIDIA Developer Program in Q2, 2021
+
+Download
+https://developer.nvidia.com/nvidia-tensorrt-8x-download
+https://developer.nvidia.com/compute/machine-learning/tensorrt/secure/8.0/tars/tensorrt-8.0.0.3.linux.x86_64-gnu.cuda-11.3.cudnn8.2.tar.gz
+
